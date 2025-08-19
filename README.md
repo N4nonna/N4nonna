@@ -63,7 +63,7 @@
 
 <br>
 
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=N4nonna&repo=Hackathon-1&theme=onedark&hide_border=true)](https://github.com/N4nonna/Hackathon-1)
+<!--[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=N4nonna&repo=Hackathon-1&theme=onedark&hide_border=true)](https://github.com/N4nonna/Hackathon-1) -->
 
 <br>
 
