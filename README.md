@@ -1,26 +1,71 @@
-<h1 align="center">Hi 👋, I'm N4nonna</h1>
-<h3 align="center">A passionate fullstack develloper from France</h3>
-
-<p align="center">
-  <img src="https://counter.kuber.studio/N4nonna/glassmorphism/count.svg" alt="Profile views" /> 
-</p>
+<div align="center">
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&weight=600&size=45&pause=1000&color=F7BC6CC3&center=true&vCenter=true&width=435&lines=%E2%9C%A8+Hi+There!+%E2%9C%A8;%E2%9C%A8+I'm+N4nonna!+%E2%9C%A8" alt="Typing SVG" />
+    </a>
+  </p>
+  <h3 align="center">A passionate fullstack develloper and illustrator from France</h3>
+  
+  <img src="https://github.com/N4nonna/N4nonna/blob/main/IMG_1921.jpeg" alt="Banner of me sitting by with window with my cat-assistant."/>
+  
+  <p>
+    <p align="center">
+      <img src="https://counter.kuber.studio/N4nonna/glassmorphism/count.svg" alt="Profile views" /> 
+    </p>
+  </p>
+</div>
+<h1></h1>
 
 - 🌱 I’m currently learning **Dev Op and fullstack**
+- 💬 Ask me about **Java, Node.js, React...or opossums [here](https://github.com/N4nonna/N4nonna/issues)**
+- ⚡ Fun fact: **I love opossum**
 
-- ⚡ Fun fact **I love opossum**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/manon-escoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manon-escoda" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center" >
+  <a href="nanonna.art@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/manon-escoda" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br>
+<hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n4nonna&show_icons=true&locale=en&layout=compact" alt="n4nonna" /></p>
+## 🛠️ Languages and Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n4nonna&show_icons=true&locale=en" alt="n4nonna" /></p>
+<br>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,mongodb,html,htmx,css,express,nextjs,c,cmake&perline=6" />
+  </a>
+</p>
+<br>
+<hr>
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=N4nonna&theme=onedark&count_private=true&show_icons=true&locale=en&hide_border=true&border_radius=10" alt="N4nonna's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=N4nonna&theme=onedark&count_private=true&border_radius=10&hide_border=true&locale=en" alt="N4nonna's" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=N4nonna&theme=onedark&layout=donut&hide=shell&langs_count=8&border_radius=10&size_weight=0.5&count_weight=0.5&show_icons=true&hide_border=true&locale=en" alt="N4nonna's Most Used Languages" />
+</div>
+<br>
+<hr>
+
+## 🌱 Ongoing/finished projects
+
+<br>
+
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=N4nonna&repo=Hackathon-1&theme=onedark&hide_border=true)](https://github.com/N4nonna/Hackathon-1)
+
+<br>
 
 <!--
 **N4nonna/N4nonna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
